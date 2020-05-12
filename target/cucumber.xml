@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="27.045579">
+<testcase classname="Verify that the page screen is matching before deplyoment and after development" name="Before deployment take screenshot" time="27.045579">
+<system-out><![CDATA[Given user navigate to Women page and take screenshot.......................passed
+And user navigate to Tshirts page and take screenshot.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
